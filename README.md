@@ -1,5 +1,7 @@
 # BERT wiki训练(training)与情感分析
-
+*数据百度网盘提取 链接：https://pan.baidu.com/s/1kn9ti-4nNzLrI5WFlec-kQ 
+提取码：uqt1 
+*
 两部分
 - 基于中文wiki的BERT训练
 - 情感的正面与负面分析
